@@ -37,3 +37,9 @@
 </div>
 
 ###
+
+<h4 align="left">My Stats ⚡</h4>
+
+###
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amarkusi&theme=default)
