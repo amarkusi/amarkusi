@@ -1,4 +1,4 @@
-### Hi There 👋🏻
+### Hi There 👋
 
 <picture>
   <source srcset="./Banner.png">
