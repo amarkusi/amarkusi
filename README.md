@@ -8,7 +8,7 @@
 
 > What i Kown
 
-[![What i Kown](https://skillicons.dev/icons?i=js,ts,c,cpp,java,react,next,vite,tailwind,electron)](skillicons.dev)
+[![What i Kown](https://skillicons.dev/icons?i=ts,cpp,kotlin,react,next,vite)](skillicons.dev)
 
 ### My Stats ⚡
 
