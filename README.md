@@ -2,13 +2,13 @@
   <img height="200" src="https://raw.githubusercontent.com/amarkusi/amarkusi/main/Banner.png"  />
 </div>
 
-# Yoo, I'm A_markusi.
+# Yo
 
 ### About Me
 
 > What i Kown
 
-[![What i Kown](https://skillicons.dev/icons?i=ts,cpp,java,react,next,vite)](skillicons.dev)
+[![What i Kown](https://skillicons.dev/icons?i=ts,cpp,java)](skillicons.dev)
 
 ### My Stats ⚡
 
