@@ -10,8 +10,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarkusi&theme=react&locale=en"  />
-  <img src="https://streak-stats.demolab.com?user=amarkusi&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=amarkusi&theme=react"  />
+  <img src="https://streak-stats.demolab.com?user=amarkusi&theme=react"  />
 </div>
 
 ###
