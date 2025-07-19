@@ -9,6 +9,12 @@
 
 <br clear="both">
 
+###
+
+<h2 align="left">My Stats:</h2>
+
+### 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amarkusi&theme=react" height="170"  />
   <img src="https://streak-stats.demolab.com?user=amarkusi&theme=react" height="170"  />
