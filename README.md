@@ -15,6 +15,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&labelColor=000000" />
+  <img src="https://img.shields.io/badge/vs code-0078d7?style=for-the-badge"  />
+  <img src="https://img.shields.io/badge/visual%20studio-854cc7?style=for-the-badge&labelColor=black"  />
+  
+###
+
 <h2 align="left">My Stats:</h2>
 
 ### 
