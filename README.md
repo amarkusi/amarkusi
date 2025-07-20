@@ -2,12 +2,16 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=3178c6&labelColor=black"  />
+  <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=cplusplus&logoColor=00599c&labelColor=black"  />
+  <img src="https://img.shields.io/badge/c%23-9b4993?style=for-the-badge&logoColor=9b4993&labelColor=black" />
+  <img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=black" />
+  <img src="https://img.shields.io/badge/vite-646cff?style=for-the-badge&logo=vite&logoColor=646cff&labelColor=black"  />
+  <img src="https://img.shields.io/badge/tailwindcss-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=06b6d4&labelColor=black"  />
+  <img src="https://img.shields.io/badge/node.js-5fa04e?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e&labelColor=black"  />
+  <img src="https://img.shields.io/badge/mongodb-47a248?style=for-the-badge&logo=mongodb&logoColor=47a248&labelColor=black"  />
 </div>
-
-###
-
-<br clear="both">
 
 ###
 
